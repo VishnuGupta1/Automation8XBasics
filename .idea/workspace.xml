@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d633da3-d2e8-4be9-b74e-59cb6fa17b4a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Com/AutomationBasics/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/SampleBrowser_HandlingsTask1.java" afterDir="false" />
+    <list default="true" id="2d633da3-d2e8-4be9-b74e-59cb6fa17b4a" name="Changes" comment="First commit">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Com/AutomationBasics/SampleTask1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SampleBrowser_HandlingsTask1.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,14 +39,30 @@
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.SampleBrowser_HandlingsTask1 (1).executor": "Run",
     "TestNG.SampleBrowser_HandlingsTask1.DriverSetup.executor": "Run",
+    "TestNG.SampleBrowser_HandlingsTask1.SetUp_Launch_Browser.executor": "Run",
+    "TestNG.SampleBrowser_HandlingsTask1.Titile_Validation.executor": "Run",
+    "TestNG.SampleBrowser_HandlingsTask1.User_Login_Screen (1).executor": "Run",
+    "TestNG.SampleBrowser_HandlingsTask1.User_Login_Screen (2).executor": "Run",
+    "TestNG.SampleBrowser_HandlingsTask1.User_Login_Screen (3).executor": "Run",
+    "TestNG.SampleBrowser_HandlingsTask1.User_Login_Screen.executor": "Run",
     "TestNG.SampleBrowser_HandlingsTask1.executor": "Run",
+    "TestNG.SampleBrowser_HandlingsTask2.SetUp_Launch_Browser.executor": "Run",
+    "TestNG.SampleBrowser_HandlingsTask2.Titile_Validation.executor": "Run",
+    "TestNG.SampleBrowser_HandlingsTask2.executor": "Run",
+    "TestNG.SampleTask1.executor": "Run",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.SampleBrowser_HandlingsTask1">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Com.AutomationBasics" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.SampleTask1">
     <configuration name="SampleBrowser_HandlingsTask1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AutomationBasics" />
       <option name="PACKAGE_NAME" value="" />
@@ -62,12 +74,53 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SampleBrowser_HandlingsTask1.DriverSetup" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SampleBrowser_HandlingsTask1.User_Login_Screen (2)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AutomationBasics" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="SampleBrowser_HandlingsTask1" />
-      <option name="METHOD_NAME" value="DriverSetup" />
+      <option name="METHOD_NAME" value="User_Login_Screen" />
       <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleBrowser_HandlingsTask1.User_Login_Screen (3)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationBasics" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SampleBrowser_HandlingsTask1" />
+      <option name="METHOD_NAME" value="User_Login_Screen" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleBrowser_HandlingsTask1.User_Login_Screen" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationBasics" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SampleBrowser_HandlingsTask1" />
+      <option name="METHOD_NAME" value="User_Login_Screen" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleTask1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationBasics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Com.AutomationBasics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Com.AutomationBasics" />
+      <option name="MAIN_CLASS_NAME" value="Com.AutomationBasics.SampleTask1" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -76,8 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.SampleTask1" />
+        <item itemvalue="TestNG.SampleBrowser_HandlingsTask1.User_Login_Screen" />
+        <item itemvalue="TestNG.SampleBrowser_HandlingsTask1.User_Login_Screen (3)" />
+        <item itemvalue="TestNG.SampleBrowser_HandlingsTask1.User_Login_Screen (2)" />
         <item itemvalue="TestNG.SampleBrowser_HandlingsTask1" />
-        <item itemvalue="TestNG.SampleBrowser_HandlingsTask1.DriverSetup" />
       </list>
     </recent_temporary>
   </component>
@@ -90,6 +146,19 @@
       <option name="presentableId" value="Default" />
       <updated>1735063774519</updated>
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1735066008205</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735066008205</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
   </component>
 </project>
