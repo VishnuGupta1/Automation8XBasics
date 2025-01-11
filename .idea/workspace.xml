@@ -4,9 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d633da3-d2e8-4be9-b74e-59cb6fa17b4a" name="Changes" comment="First commit day1">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Com/AutomationBasics/SampleTask2.java" afterDir="false" />
+    <list default="true" id="2d633da3-d2e8-4be9-b74e-59cb6fa17b4a" name="Changes" comment="First commit day2">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Automation_Bacis2/Com/SamplePageValidations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Demo_espocrm_Validations/Basic_Setup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Demo_espocrm_Validations/Create_Accounts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Ebay_WebSite/Driver_Setup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Ebay_WebSite/Home_Screen_Validations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Orange_HRM/Basic_Setup_HRM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Orange_HRM/Orange_HRM_Testing.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,18 +31,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "VishnuGupta1"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;VishnuGupta1&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/VishnuGupta1/Automation8XBasics.git",
-    "accountId": "892b391c-9140-4c6a-997c-fedccc9fc638"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/VishnuGupta1/Automation8XBasics.git&quot;,
+    &quot;accountId&quot;: &quot;892b391c-9140-4c6a-997c-fedccc9fc638&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -46,9 +54,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JUnit.Demo_espocrm_Validations in AutomationBasics.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.Basic_Setup.LaunchBrowser.executor": "Run",
+    "TestNG.Basic_Setup.executor": "Run",
+    "TestNG.Create_Accounts.Create_account_Validations.executor": "Run",
+    "TestNG.Create_Accounts.executor": "Run",
+    "TestNG.Home_Screen_Validations.ListOF_Links.executor": "Run",
+    "TestNG.Home_Screen_Validations.Shipping_andCheck.executor": "Run",
+    "TestNG.Home_Screen_Validations.Validations.executor": "Run",
+    "TestNG.Home_Screen_Validations.executor": "Run",
     "TestNG.SampleBrowser_HandlingsTask1 (1).executor": "Run",
     "TestNG.SampleBrowser_HandlingsTask1.DriverSetup.executor": "Run",
     "TestNG.SampleBrowser_HandlingsTask1.SetUp_Launch_Browser.executor": "Run",
@@ -61,42 +78,43 @@
     "TestNG.SampleBrowser_HandlingsTask2.SetUp_Launch_Browser.executor": "Run",
     "TestNG.SampleBrowser_HandlingsTask2.Titile_Validation.executor": "Run",
     "TestNG.SampleBrowser_HandlingsTask2.executor": "Run",
+    "TestNG.SamplePageValidations.HomePage_Validations.executor": "Run",
+    "TestNG.SamplePageValidations.SetUp_Launch_Browser (1).executor": "Run",
+    "TestNG.SamplePageValidations.SetUp_Launch_Browser (2).executor": "Run",
+    "TestNG.SamplePageValidations.SetUp_Launch_Browser.executor": "Run",
+    "TestNG.SamplePageValidations.Username_Administration_Validation (1).executor": "Run",
+    "TestNG.SamplePageValidations.Username_Administration_Validation (2).executor": "Run",
+    "TestNG.SamplePageValidations.Username_Administration_Validation (3).executor": "Run",
+    "TestNG.SamplePageValidations.Username_Administration_Validation.executor": "Run",
+    "TestNG.SamplePageValidations.executor": "Run",
     "TestNG.SampleTask1.executor": "Run",
     "TestNG.SampleTask2.Button_Handling.executor": "Run",
     "TestNG.SampleTask2.SetUp_Launch_Browser.executor": "Run",
+    "TestNG.SampleTask2.executor": "Run",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Orange_HRM" />
+      <recent name="Ebay_WebSite" />
       <recent name="Com.AutomationBasics" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.SampleTask2">
-    <configuration name="SampleBrowser_HandlingsTask1.User_Login_Screen" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AutomationBasics" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SampleBrowser_HandlingsTask1" />
-      <option name="METHOD_NAME" value="User_Login_Screen" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SampleTask1" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.Home_Screen_Validations">
+    <configuration name="Create_Accounts" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AutomationBasics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Com.AutomationBasics.*" />
+          <option name="PATTERN" value="Demo_espocrm_Validations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Com.AutomationBasics" />
-      <option name="MAIN_CLASS_NAME" value="Com.AutomationBasics.SampleTask1" />
+      <option name="PACKAGE_NAME" value="Demo_espocrm_Validations" />
+      <option name="MAIN_CLASS_NAME" value="Demo_espocrm_Validations.Create_Accounts" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -104,16 +122,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SampleTask2" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Home_Screen_Validations" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AutomationBasics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Com.AutomationBasics.*" />
+          <option name="PATTERN" value="Ebay_WebSite.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Com.AutomationBasics" />
-      <option name="MAIN_CLASS_NAME" value="Com.AutomationBasics.SampleTask2" />
+      <option name="PACKAGE_NAME" value="Ebay_WebSite" />
+      <option name="MAIN_CLASS_NAME" value="Ebay_WebSite.Home_Screen_Validations" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -121,17 +139,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SampleTask2.Button_Handling" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Home_Screen_Validations.ListOF_Links" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AutomationBasics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Com.AutomationBasics.*" />
+          <option name="PATTERN" value="Ebay_WebSite.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Com.AutomationBasics" />
-      <option name="MAIN_CLASS_NAME" value="Com.AutomationBasics.SampleTask2" />
-      <option name="METHOD_NAME" value="Button_Handling" />
+      <option name="PACKAGE_NAME" value="Ebay_WebSite" />
+      <option name="MAIN_CLASS_NAME" value="Ebay_WebSite.Home_Screen_Validations" />
+      <option name="METHOD_NAME" value="ListOF_Links" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -139,17 +157,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SampleTask2.SetUp_Launch_Browser" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="Home_Screen_Validations.Shipping_andCheck" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AutomationBasics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Com.AutomationBasics.*" />
+          <option name="PATTERN" value="Ebay_WebSite.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Com.AutomationBasics" />
-      <option name="MAIN_CLASS_NAME" value="Com.AutomationBasics.SampleTask2" />
-      <option name="METHOD_NAME" value="SetUp_Launch_Browser" />
+      <option name="PACKAGE_NAME" value="Ebay_WebSite" />
+      <option name="MAIN_CLASS_NAME" value="Ebay_WebSite.Home_Screen_Validations" />
+      <option name="METHOD_NAME" value="Shipping_andCheck" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Home_Screen_Validations.Validations" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationBasics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ebay_WebSite.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Ebay_WebSite" />
+      <option name="MAIN_CLASS_NAME" value="Ebay_WebSite.Home_Screen_Validations" />
+      <option name="METHOD_NAME" value="Validations" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -159,11 +195,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.SampleTask2" />
-        <item itemvalue="TestNG.SampleTask2.SetUp_Launch_Browser" />
-        <item itemvalue="TestNG.SampleTask2.Button_Handling" />
-        <item itemvalue="TestNG.SampleTask1" />
-        <item itemvalue="TestNG.SampleBrowser_HandlingsTask1.User_Login_Screen" />
+        <item itemvalue="TestNG.Home_Screen_Validations" />
+        <item itemvalue="TestNG.Home_Screen_Validations.Shipping_andCheck" />
+        <item itemvalue="TestNG.Home_Screen_Validations.ListOF_Links" />
+        <item itemvalue="TestNG.Home_Screen_Validations.Validations" />
+        <item itemvalue="TestNG.Create_Accounts" />
       </list>
     </recent_temporary>
   </component>
@@ -192,12 +228,37 @@
       <option name="project" value="LOCAL" />
       <updated>1735143157363</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="First commit day2">
+      <option name="closed" value="true" />
+      <created>1735146415526</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735146415526</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
     <MESSAGE value="First commit day1" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit day1" />
+    <MESSAGE value="First commit day2" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit day2" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Demo_espocrm_Validations/Basic_Setup.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Ebay_WebSite/Home_Screen_Validations.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
